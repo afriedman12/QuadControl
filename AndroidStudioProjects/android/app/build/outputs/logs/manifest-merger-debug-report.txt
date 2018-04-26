@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\84863605f0bc568c7a2f0e818218a975\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\785f51c38df61143fde44e2de11d63f2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\dd35d8ec6bac1e69ec633850b9e82346\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7d049aa699276b263605bc7e18a82933\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\9be3260a6231e837e049633d1652cec7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\da900b9f2c11ca6d7da542ab0b7f3a5b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\011f5a8fb77084c6bc1786ed8ad69868\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\57f6ad040c274bb3c36eee2aaf048e00\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\d00763b6d098e3e289b670dae56a0cea\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\084eb6f331e21f7090c8ab59af996d10\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:percent:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\5745a165fab3eee157b64fbe84c892b1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\826a7e2c8c461bb58acc68201e857bc5\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:120-156
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:94-119
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:3:5-73
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\84863605f0bc568c7a2f0e818218a975\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\84863605f0bc568c7a2f0e818218a975\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:4:3-70
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\785f51c38df61143fde44e2de11d63f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\785f51c38df61143fde44e2de11d63f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\dd35d8ec6bac1e69ec633850b9e82346\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\dd35d8ec6bac1e69ec633850b9e82346\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7d049aa699276b263605bc7e18a82933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7d049aa699276b263605bc7e18a82933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\9be3260a6231e837e049633d1652cec7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\9be3260a6231e837e049633d1652cec7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\da900b9f2c11ca6d7da542ab0b7f3a5b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\da900b9f2c11ca6d7da542ab0b7f3a5b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\011f5a8fb77084c6bc1786ed8ad69868\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\011f5a8fb77084c6bc1786ed8ad69868\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\57f6ad040c274bb3c36eee2aaf048e00\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\57f6ad040c274bb3c36eee2aaf048e00\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\d00763b6d098e3e289b670dae56a0cea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\d00763b6d098e3e289b670dae56a0cea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\084eb6f331e21f7090c8ab59af996d10\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\084eb6f331e21f7090c8ab59af996d10\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:percent:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\5745a165fab3eee157b64fbe84c892b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\5745a165fab3eee157b64fbe84c892b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\826a7e2c8c461bb58acc68201e857bc5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\826a7e2c8c461bb58acc68201e857bc5\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:3:5-73
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:3:42-71
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:3:15-41
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:8:5-15:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\84863605f0bc568c7a2f0e818218a975\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\84863605f0bc568c7a2f0e818218a975\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:6:3-8:17
+MERGED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:6:3-8:17
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\785f51c38df61143fde44e2de11d63f2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\785f51c38df61143fde44e2de11d63f2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\dd35d8ec6bac1e69ec633850b9e82346\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\dd35d8ec6bac1e69ec633850b9e82346\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7d049aa699276b263605bc7e18a82933\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7d049aa699276b263605bc7e18a82933\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\9be3260a6231e837e049633d1652cec7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\9be3260a6231e837e049633d1652cec7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\da900b9f2c11ca6d7da542ab0b7f3a5b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\da900b9f2c11ca6d7da542ab0b7f3a5b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\011f5a8fb77084c6bc1786ed8ad69868\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\011f5a8fb77084c6bc1786ed8ad69868\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\57f6ad040c274bb3c36eee2aaf048e00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\57f6ad040c274bb3c36eee2aaf048e00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\d00763b6d098e3e289b670dae56a0cea\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\d00763b6d098e3e289b670dae56a0cea\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\084eb6f331e21f7090c8ab59af996d10\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\084eb6f331e21f7090c8ab59af996d10\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:percent:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\5745a165fab3eee157b64fbe84c892b1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\5745a165fab3eee157b64fbe84c892b1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\826a7e2c8c461bb58acc68201e857bc5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\826a7e2c8c461bb58acc68201e857bc5\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:8:19-45
+activity#processing.test.quadcopter.MainActivity
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:9:9-14:20
+	android:theme
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:9:47-114
+	android:name
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:9:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:11:17-68
+	android:name
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from C:\Users\alexi\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:12:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\84863605f0bc568c7a2f0e818218a975\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\84863605f0bc568c7a2f0e818218a975\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\785f51c38df61143fde44e2de11d63f2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\785f51c38df61143fde44e2de11d63f2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\dd35d8ec6bac1e69ec633850b9e82346\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\dd35d8ec6bac1e69ec633850b9e82346\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7d049aa699276b263605bc7e18a82933\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7d049aa699276b263605bc7e18a82933\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\da900b9f2c11ca6d7da542ab0b7f3a5b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\da900b9f2c11ca6d7da542ab0b7f3a5b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\011f5a8fb77084c6bc1786ed8ad69868\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\011f5a8fb77084c6bc1786ed8ad69868\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\57f6ad040c274bb3c36eee2aaf048e00\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\57f6ad040c274bb3c36eee2aaf048e00\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\d00763b6d098e3e289b670dae56a0cea\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\d00763b6d098e3e289b670dae56a0cea\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\084eb6f331e21f7090c8ab59af996d10\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\084eb6f331e21f7090c8ab59af996d10\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:percent:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\5745a165fab3eee157b64fbe84c892b1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\percent-26.0.0.aar\5745a165fab3eee157b64fbe84c892b1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\826a7e2c8c461bb58acc68201e857bc5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\826a7e2c8c461bb58acc68201e857bc5\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\b1489c567b91293f136eab1af5843cca\AndroidManifest.xml:26:9-47
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:7:5-88
+	android:required
+		ADDED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:7:62-86
+	android:name
+		ADDED from [com.google.android.support:wearable:2.0.5] C:\Users\alexi\.gradle\caches\transforms-1\files-1.1\wearable-2.0.5.aar\f87651d3345ce0d9fbdb1e77d9c7f4f1\AndroidManifest.xml:7:19-61

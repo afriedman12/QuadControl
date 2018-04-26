@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\alexi\\AndroidStudioProjects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alexi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\826a7e2c8c461bb58acc68201e857bc5\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
